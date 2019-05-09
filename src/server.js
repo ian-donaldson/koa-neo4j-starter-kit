@@ -1,5 +1,5 @@
-import app from './app.js';
-import {ports} from './settings.js';
+import app from './app';
+import {ports} from './settings';
 // import your logic files/modules below to be included in the bundle
 import './article';
 import './noncypher';
