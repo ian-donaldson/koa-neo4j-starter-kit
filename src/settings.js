@@ -26,5 +26,5 @@ export const ports = {
 // configs for development mode
 if (process.env.DEV) {
     neo4j.boltUrl = 'bolt://neo4j.second.school:7473';
-    neo4j.password = '6EYAAc0jkLCN';
+    neo4j.password = 'neo4j';
 }
