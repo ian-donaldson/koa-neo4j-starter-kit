@@ -11,7 +11,7 @@
     "start": "npm run build && DEV=1 node $NODE_DEBUG_OPTION server.js",
     "serve": "npm run build && node server.js"
   },
-  "author": "Ian Donaldson <ian.donaldson@gmail.com>",
+  "author": "Ian Donaldson <ian.donaldson@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.11.4",
