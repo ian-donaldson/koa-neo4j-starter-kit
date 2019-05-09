@@ -1,7 +1,7 @@
 {
   "name": "koa-neo4j-starter-kit",
   "version": "0.1.0",
-  "description": "A blueprint for creating RESTful web servers with koa-neo4j",
+  "description": "RESTful web servers with koa-neo4j project",
   "main": "server.js",
   "jsnext:main": "./src/server.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "start": "npm run build && DEV=1 node $NODE_DEBUG_OPTION server.js",
     "serve": "npm run build && node server.js"
   },
-  "author": "Keyvan Mir Mohammad Sadeghi <keyvan.m.sadeghi@gmail.com>",
+  "author": "Ian Donaldson <ian.donaldson@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.11.4",
